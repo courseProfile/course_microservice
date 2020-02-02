@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/andresaaap/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/andresaaap/Operationalize-a-Machine-Learning-Microservice-API)
+[![CircleCI](https://circleci.com/gh/courseProfile/course_microservice.svg?style=svg)](https://circleci.com/gh/courseProfile/course_microservice)
 
 # Cloud DevOps, Scaling Microservices
 
