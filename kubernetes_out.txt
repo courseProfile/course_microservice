@@ -1,0 +1,12 @@
+ubuntu@ip-172-31-0-7:~/course_microservice$ sudo ./run_kubernetes.sh
+deployment.apps/api created
+NAME                   READY   STATUS              RESTARTS   AGE
+api-7fcccdf865-4v4bq   0/1     ContainerCreating   0          1s
+service/api exposed
+ubuntu@ip-172-31-0-7:~/course_microservice$ ./make_prediction.sh
+Port: 30364
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
